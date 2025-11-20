@@ -38,12 +38,14 @@ Backend
 
 Carpool-Management-System/
 │── main.py
+│── README.md
+│── requirements.txt
+│
 │── database/
 │     └── schema.sql
-│── requirements.txt
-│── README.md
-│── .gitignore
-⸻
+│
+└── docs/
+      └── screenshots/
 
 
 🗄 Database Schema
