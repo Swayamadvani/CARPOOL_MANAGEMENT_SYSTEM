@@ -37,13 +37,12 @@ Backend
 📂 Folder Structure
 
 Carpool-Management-System/
-│── main.py                     # Tkinter GUI application
+│── main.py
 │── database/
-│     └── schema.sql            # All SQL tables + stored procedures
-│── requirements.txt            # Python dependencies
-│── README.md                   # Documentation
-
-
+│     └── schema.sql
+│── requirements.txt
+│── README.md
+│── .gitignore
 ⸻
 
 
