@@ -1,4 +1,4 @@
-#Carpool Management System
+Carpool Management System
 
 A Python Tkinter + MySQL–based application to manage drivers, rides, users, and automatic seat allocation using stored procedures and triggers.
 
