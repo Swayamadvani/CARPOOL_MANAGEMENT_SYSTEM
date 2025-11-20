@@ -37,20 +37,18 @@ Backend
 📂 Folder Structure
 
 Carpool-Management-System/
-│
-├── main.py
-│
-├── database/
-│   └── schema.sql
-│
-├── docs/
-│   └── screenshots/
-│
-├── README.md
-│
-├── requirements.txt
-│
-└── .gitignore
+|
+|-- main.py
+|
+|-- database/
+|     |-- schema.sql
+|
+|-- docs/
+|     |-- screenshots/
+|
+|-- README.md
+|-- requirements.txt
+|-- .gitignore
 
 
 🗄 Database Schema
