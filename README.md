@@ -50,7 +50,7 @@ Carpool-Management-System/
 │
 ├── requirements.txt
 │
-└── .gitignore 
+└── .gitignore
 
 
 🗄 Database Schema
