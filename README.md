@@ -40,7 +40,6 @@ Carpool-Management-System/
 │── main.py
 │── README.md
 │── requirements.txt
-│
 │── database/
 │     └── schema.sql
 │
